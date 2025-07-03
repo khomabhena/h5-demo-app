@@ -9,7 +9,7 @@ const BottomDrawer = () => {
 home
 </span></IconsNavigation>
             <IconsNavigation active={true} name={'Service'} image={''}>
-                <span class="material-symbols-outlined">api</span>
+                <span className=" material-symbols-outlined">api</span>
             </IconsNavigation>
             <IconsNavigation name={'Nearby'} image={''}>
                 <span class="material-symbols-outlined">distance</span>
