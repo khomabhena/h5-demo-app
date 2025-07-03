@@ -22,9 +22,9 @@ const Container = () => {
           <Icons image={'/medicine.svg'} name={'Medicine'} />
           <Icons image={'/rent.svg'} name={'Rent'} />
           <Icons image={'/donation.svg'} name={'Donation'} />
-          <Icons image={'/food-delivery.svg'} name={'Food Delivery'} />
+          <Icons image={'/food-delivery.svg'} name={'Food'} />
           <Icons image={'/multimedia.svg'} name={'Multimedia'} />
-          <Icons image={'/h5.svg'} name={'H5 Application'} />
+          <Icons image={'/h5.svg'} name={'H5'} />
         </Card>
 
         <Card name={'Transportation'}>
