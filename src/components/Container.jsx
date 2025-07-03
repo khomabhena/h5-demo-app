@@ -10,7 +10,7 @@ const Container = () => {
       <div className=' '>
         <h2 className=' font-bold text-2xl'>H5 Framework</h2>
         <Card name={'Financial service'}>
-          <Icons link={'https:appletree-mdu.vercel.app'} image={'/appletree.png'} name={'Appletree'} />
+          <Icons link={'https://appletree-mdu.vercel.app'} image={'/appletree.png'} name={'Appletree'} />
           <Icons link={'https://redboxx.online'} image={'/redboxx.png'} name={'Redboxx'} />
           <Icons image={'/market.svg'} name={'Market'} />
           <Icons image={'/insurance.svg'} name={'Insurance'} />
