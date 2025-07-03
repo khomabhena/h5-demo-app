@@ -6,7 +6,7 @@ import BottomDrawer from './BottomDrawer'
 const Container = () => {
   return (
     <>
-    <div className=' bg-gray-200 px-3 w-screen h-screen pt-8 relative'>
+    <div className=' bg-gray-100 px-3 w-screen h-screen pt-8 relative'>
       <div className=' '>
         <h2 className=' font-bold text-2xl'>H5 Framework</h2>
         <Card name={'Financial service'}>
@@ -17,7 +17,7 @@ const Container = () => {
         </Card>
           
         <Card name={'Life service'}>
-          <Icons image={'/bill-payment.svg'} name={'Bill Payments'} />
+          <Icons image={'/bill-payment.svg'} name={'Payments'} />
           <Icons image={'/city.svg'} name={'City Service'} />
           <Icons image={'/medicine.svg'} name={'Medicine'} />
           <Icons image={'/rent.svg'} name={'Rent'} />
