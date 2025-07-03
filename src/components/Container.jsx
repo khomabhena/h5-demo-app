@@ -23,7 +23,7 @@ const Container = () => {
           <Icons image={'/icon-wallet.svg'} name={'Rent'} />
           <Icons image={'/icon-wallet.svg'} name={'Donation'} />
           <Icons image={'/icon-wallet.svg'} name={'Food Delivery'} />
-          <Icons image={'/icon-wallet.svg'} name={'Zema Multimedia'} />
+          <Icons image={'/icon-wallet.svg'} name={'Multimedia'} />
           <Icons image={'/icon-wallet.svg'} name={'H5 Application'} />
         </Card>
 
