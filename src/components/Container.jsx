@@ -8,7 +8,7 @@ const Container = () => {
     <>
     <div className=' bg-gray-200 px-3 w-screen h-screen pt-8 relative'>
       <div className=' '>
-        <h2 className=' font-bold text-2xl'>Service</h2>
+        <h2 className=' font-bold text-xl'>Service</h2>
         <Card name={'Financial service'}>
           <Icons image={'/icon-wallet.svg'} name={'Saving'} />
           <Icons image={'/icon-wallet.svg'} name={'Loan Center'} />
